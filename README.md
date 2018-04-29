@@ -6,4 +6,6 @@ The other two demonstrates simple bruteforce attacks:
 One one PINs, the other one on passwords.
 
 Possibly following features:
--Adding anti-crash-code
+* Adding anti-crash-code
+
+	Warning: This software is only ment to be used for educational and demonstration purposes. You are not allowed to use it to attack other people
