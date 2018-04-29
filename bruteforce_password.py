@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import time
-print "Please enter a pin to test:",
+print "Please enter a password to test:",
 password  = raw_input()
 lenght = len(password)
 print "Starting bruteforce attack on your " + str(lenght) + " digit password"
