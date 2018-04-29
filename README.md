@@ -1,2 +1,6 @@
 # pin_guessable
-This Software shows you, how simple it is to guess your pin
+This is a little software written in Python to show you, what difference in security it makes, how many digits you pin has and if you share he information, wether you tell others, how many digits your pin has.
+
+Maybe following features:
+-Bruteforce to demonstrate attacks
+-Capbility for passwords
