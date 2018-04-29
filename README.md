@@ -3,4 +3,4 @@ This is a little software written in Python to show you, what difference in secu
 
 Maybe following features:
 -Bruteforce to demonstrate attacks
--Capbility for passwords
+-Capability for passwords
