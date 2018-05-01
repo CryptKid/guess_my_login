@@ -17,5 +17,5 @@ for x in range(0,pow(94,lenght)):
             break
 tempus = (time.time() - start_time)
 print("Successful bruteforce after " +  str(tempus) + " seconds and " + str(attempts) + " attempts")
-print("Your password ist " + "".join(pwpt))
+print("Your password is " + "".join(pwpt))
 print("Added the 11% for lenght guessing, the bruteforce time is " + str(tempus * 1.11))
