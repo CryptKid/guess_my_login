@@ -1,5 +1,5 @@
 # pin_guessable
-This is a little software collection written in Python to show how bruteforce attacks work.
+This is a little software collection written in Python2 and 3 to show how bruteforce attacks work.
 It consists of two features:
 One script tells you, how many possibilities there are with x digits of pin.
 The other two demonstrates simple bruteforce attacks:

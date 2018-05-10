@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 print "How many digits does your pin have?",
 digits_string  = raw_input()
 digits = int(digits_string)

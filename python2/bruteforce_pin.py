@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 import time
 print "Please enter a pin to test:",
 pin_string  = raw_input()

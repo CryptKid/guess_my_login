@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 import time
 print "Please enter a password to test:",
 password  = raw_input()
